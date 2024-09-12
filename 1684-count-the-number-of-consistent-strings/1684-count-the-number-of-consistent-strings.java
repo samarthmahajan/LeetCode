@@ -1,24 +1,27 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-          int countWord = 0;
-        Set<Character> alowedCharacters = allowed.chars().mapToObj(c -> (char) c).collect(Collectors.toSet());
+          // Step 1: Create a bitmask for the allowed characters
+        int allowedMask = 0;
+        for (char c : allowed.toCharArray()) {
+            allowedMask |= (1 << (c - 'a')); // Set the bit for the character
+        }
+        
+        int consistentCount = 0;
+
+        // Step 2: Iterate through each word
         for (String word : words) {
-
-            boolean isConsistent = true; 
+            int wordMask = 0;
             for (char c : word.toCharArray()) {
-                if (!alowedCharacters.contains(c)) {
-                    isConsistent = false ;
-                     break;
-                    }
-
-
-
+                wordMask |= (1 << (c - 'a')); // Set the bit for the character
             }
-              if (isConsistent) {
-                        countWord++;
-                    }
+
+            // Step 3: Check if wordMask is a subset of allowedMask
+            if ((wordMask & allowedMask) == wordMask) {
+                consistentCount++;  // If true, the word is consistent
+            }
         }
 
-        return countWord;
+        // Step 4: Return the count of consistent words
+        return consistentCount;
     }
 }
