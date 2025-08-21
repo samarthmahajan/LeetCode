@@ -4,7 +4,7 @@ class Solution {
 
         int m = mat.length, n = mat[0].length;
         int[] heights = new int[n];
-        long ans = 0;
+        int ans = 0;
 
         for (int r = 0; r < m; r++) {
             // 1) Build histogram for this row
@@ -38,7 +38,7 @@ class Solution {
                 ans += sum;
             }
         }
-        return (int)ans;
+        return ans;
         
     }
 }
