@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samarthmahajan/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/samarthmahajan/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
