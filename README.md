@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 <!---LeetCode Topics End-->
