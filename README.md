@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/samarthmahajan/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samarthmahajan/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/samarthmahajan/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/samarthmahajan/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/samarthmahajan/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
