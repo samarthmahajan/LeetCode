@@ -11,11 +11,10 @@ class Solution {
             }else if (".".equals(dir)  || "..".equals(dir)){
                 continue;
             }
-            stack.push("/"+dir);
+            stack.push(dir);
         }
 
-        return String.join("", stack).isEmpty()?"/":String.join("", stack);
-
+         return "/" + String.join("/", stack);
         
     }
 }
