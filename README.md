@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samarthmahajan/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0071-simplify-path](https://github.com/samarthmahajan/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/samarthmahajan/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/samarthmahajan/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0496-next-greater-element-i](https://github.com/samarthmahajan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/samarthmahajan/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
