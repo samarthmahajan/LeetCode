@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/samarthmahajan/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/samarthmahajan/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/samarthmahajan/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sliding Window
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/samarthmahajan/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/samarthmahajan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/samarthmahajan/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/samarthmahajan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/samarthmahajan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
