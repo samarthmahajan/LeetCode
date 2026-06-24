@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0217-contains-duplicate](https://github.com/samarthmahajan/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/samarthmahajan/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/samarthmahajan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/samarthmahajan/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/samarthmahajan/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/samarthmahajan/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/samarthmahajan/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0402-remove-k-digits](https://github.com/samarthmahajan/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/samarthmahajan/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0242-valid-anagram](https://github.com/samarthmahajan/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
