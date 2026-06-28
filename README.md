@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/samarthmahajan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/samarthmahajan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/samarthmahajan/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samarthmahajan/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/samarthmahajan/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/samarthmahajan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/samarthmahajan/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/samarthmahajan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samarthmahajan/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0413-arithmetic-slices](https://github.com/samarthmahajan/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
