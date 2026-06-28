@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/samarthmahajan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/samarthmahajan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/samarthmahajan/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/samarthmahajan/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -160,10 +161,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/samarthmahajan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/samarthmahajan/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/samarthmahajan/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/samarthmahajan/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
