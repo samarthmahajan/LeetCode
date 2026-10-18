@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/samarthmahajan/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/samarthmahajan/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/samarthmahajan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/samarthmahajan/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/samarthmahajan/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/samarthmahajan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/samarthmahajan/LeetCode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/samarthmahajan/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/samarthmahajan/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0380-insert-delete-getrandom-o1](https://github.com/samarthmahajan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0413-arithmetic-slices](https://github.com/samarthmahajan/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0496-next-greater-element-i](https://github.com/samarthmahajan/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/samarthmahajan/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/samarthmahajan/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/samarthmahajan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +191,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samarthmahajan/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/samarthmahajan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/samarthmahajan/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
